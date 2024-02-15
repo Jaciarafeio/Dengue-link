@@ -1,0 +1,60 @@
+
+/* 
+@media screen and(max-width:2000){
+
+} */
+
+/* body{border:double;} */
+
+
+.logo{
+    margin-left: 36.5%;
+
+ 
+
+}
+
+.nome{color:rgb(29, 29, 156);
+    /* margin-left: 16%; */
+    text-align: center;
+}
+
+.todos{
+    display:flex;
+   margin-top: -17%;
+   margin-left: 10%;
+}
+
+.parte{
+display:flex;
+margin-left: 70%;
+margin-top: -15%;
+}
+
+.item{color:rgb(7, 7, 70);
+    display:flex;
+    position: absolute;  left: 10%;
+    border: dotted;
+    /* margin-left: 3%; */
+
+    padding :0.5%;
+    background-color:rgb(174, 203, 213);
+ 
+    margin-bottom: 50%;
+    margin-right: 15%;
+    }
+
+    .sua{
+
+        margin-top: -45%;
+        margin-left: 250px;
+
+    }
+
+    .final{
+
+        margin-top: -19%;
+        margin-left: 700px;
+
+    }
+
